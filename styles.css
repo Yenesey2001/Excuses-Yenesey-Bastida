@@ -1,0 +1,11 @@
+.wrap{
+    display: block;
+    border-radius: 2px;
+    text-align: center;
+    height: 600px
+}
+
+#omg{
+    text-decoration: solid;
+    color: brown;
+}
